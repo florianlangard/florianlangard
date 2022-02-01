@@ -7,20 +7,20 @@ I'm a junior web developer freshly graduated from O'Clock school. I learned to l
 I am working on different projects and random ideas to keep on learning and improving my skills.
 Talking about that, what have I been doing recently? Here are a few samples below:
 
-## Projects
-
-:construction_worker: section under construction :construction_worker:
+## Projects 🏗️
 
 ### Nexus
 
 Nexus is my final course project, developped with four teammates.
-Its purpose is to help you filter your friend list to easily find what game to play and who to play with, based on Steam user's data.
-All we need is your SteamID and your Steam account privacy set to 'Public', Nexus will handle the rest.
+Its purpose is to help you filter your friend list to easily find what game to play and who to play with, based on Steam user's data.<br/>
+All we need is your SteamID and your Steam account privacy set to 'Public', Nexus will handle the rest.<br/>
+<img width="300px" src="https://github.com/florianlangard/florianlangard/blob/main/img/homepage_nexus_test.png" />
 
 ### WeatherApp
 
-This is a simple weather app developped to learn and play with React framework and [OpenWeatherMap API](https://openweathermap.org/api).
-Only available in French for now. :fr:
+This is a simple weather app developped to learn and play with React framework and [OpenWeatherMap API](https://openweathermap.org/api).<br/>
+Only available in French for now :fr: <br/>
+<img width="300px" src="https://github.com/florianlangard/florianlangard/blob/main/img/WeatherApp.png" />
 
 ## Technology Stack
 
